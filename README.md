@@ -24,6 +24,8 @@ https://www.moex.com/n27153
 Информацию по заболевшим мы спарсили с сайта: https://coronavirus-graph.ru/mir
 Код с парсингом мы сохранили в файл **parsim.ipnyb** . Файл с датафреймом по парсингу covid.csv, который у нас вышел мы загрузили в репозиторий, чтобы в последующем его можно было открывать в коде.
 Также в этом пункте мы использовали ChatGPT (мы забыли, как делать парсинг, и он нам подсказал основы, с помощью которого мы справились с задачей).
+
+
 <a href="https://ibb.co/syZBnmN"><img src="https://i.ibb.co/r4VWY7z/Nfwew-Uz-XZ94.jpg" alt="Nfwew-Uz-XZ94" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tYrGJcK/D369c0kiap-Q.jpg" alt="D369c0kiap-Q" border="0"></a>
 
